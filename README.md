@@ -3,7 +3,8 @@
 ## Project Overview
 This project analyzes BMW car sales data using data analytics and visualization techniques. A dynamic Power BI dashboard is developed to provide insights into sales performance, pricing trends, mileage, regional demand, and model-wise contribution. The goal is to support data-driven decision-making in the automobile industry.
 
----<img width="1591" height="797" alt="Screenshot 2026-02-20 151915" src="https://github.com/user-attachments/assets/3fde8ddf-680f-4721-9555-53a028ee1a81" />
+---<img width="1164" height="741" alt="Screenshot 2026-02-17 150128" src="https://github.com/user-attachments/assets/d747f82c-b69c-41ed-9c35-d4abecace0eb" />
+
 
 
 ## Abstract
